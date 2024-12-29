@@ -1,0 +1,5 @@
+server:
+  port: "8080"
+mode: "development"
+openai:
+  api_key: "your-openai-api-key"
